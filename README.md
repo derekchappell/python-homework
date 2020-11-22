@@ -3,7 +3,7 @@
 
  - This is an analysis of profits and loses by month.
  
- [This is the end goal of calculations](https://i.imgur.com/X7gFsrH.jpg)
+ [This is the end goal of calculations](<a href="https://imgur.com/X7gFsrH"><img src="https://i.imgur.com/X7gFsrH.jpg" title="source: imgur.com" /></a>)
  
   - After importing the data the data must be looped through to load relevant data in proper type for calculations
   
